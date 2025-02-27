@@ -45,10 +45,12 @@ INSTALLED_APPS = [
     'Donor',
     'institute',
     'shop',
+    'admapp',
 
     #Added
     'rest_framework',
     'rest_framework_simplejwt',
+    'drf_yasg',
 ]
 
 MIDDLEWARE = [

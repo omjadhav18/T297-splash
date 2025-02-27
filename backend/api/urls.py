@@ -3,8 +3,9 @@ from rest_framework_simplejwt.views import (
     TokenObtainPairView, 
     TokenRefreshView,  
     TokenVerifyView  
-)
+) 
 from user import views as user_views
+from institute import views as institute_views
 
 urlpatterns = [
     path('token/', user_views.MyTokenObtainPairView.as_view(), name='token_obtain_pair'),
@@ -16,6 +17,14 @@ urlpatterns = [
 
     #Institute:
     path('institute_profile/',user_views.InstituteProfileCreateView.as_view(),name='institute_profile'),
+    path('items/',institute_views.ItemListCreateView.as_view(), name='listcreate'),
+    path('retrieve-items/<int:pk>/', institute_views.ItemRetrieveUpdateDestroyView.as_view(), name='item-detail'),
+    path('institute-requests/', institute_views.InstituteRequestListCreateView.as_view(), name='institute-requests'),
+
+    #Admin
+    path('admin/institute-requests/', institute_views.InstituteRequestAdminListView.as_view(), name='admin-list-requests'),
+    path('admin/institute-requests/<int:pk>/', institute_views.InstituteRequestAdminUpdateView.as_view(), name='admin-update-request'),
+
 
     #Donour
     path('donor_profile/',user_views.DonorProfileCreateView.as_view(),name='donor_profiel'),

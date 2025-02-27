@@ -16,9 +16,28 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path,include
+from rest_framework.permissions import AllowAny
+from drf_yasg.views import get_schema_view
+from drf_yasg import openapi
+
+schema_view = get_schema_view(
+    openapi.Info(
+        title="TechHorizon website",
+        default_version='v1',
+        description="documentations",
+        terms_of_service="https://mywbsite.com//policies",
+        contact=openapi.Contact(email="om@om.com"),
+        license= openapi.License(name="BSD license"),
+
+    ),
+    public=True,
+    permission_classes = (AllowAny,)    
+)
+
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('api/users/',include('user.urls')),
     path('api/v1/',include('api.urls')),
+    path('',schema_view.with_ui('swagger',cache_timeout=0),name="schema-swagger-ui"),
+
 ]
