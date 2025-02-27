@@ -1,0 +1,6 @@
+# Virtual environment
+venv/
+
+backend/db.sqlite3
+**/migrations/*.pyc
+**/migrations/__pycache__/
