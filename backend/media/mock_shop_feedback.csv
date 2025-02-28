@@ -1,0 +1,1001 @@
+shop_id,feedback_rating,feedback_comment,delivery_timestamp
+Shop_G,5,"Excellent quality, fast delivery!",2025-02-24 02:26:59
+Shop_A,4,Great service as always.,2024-11-18 06:26:34
+Shop_A,2,"Poor quality items, some were stale.",2024-12-09 18:21:27
+Shop_V,4,Timely delivery and good products.,2024-10-08 01:25:44
+Shop_S,2,Items not as expected.,2024-12-27 22:29:35
+Shop_S,3,"Excellent quality, fast delivery!",2024-11-19 16:57:51
+Shop_F,4,Items were fresh and well-packed.,2025-01-21 02:46:38
+Shop_K,5,Timely delivery and good products.,2025-02-01 22:52:54
+Shop_P,5,Items were fresh and well-packed.,2025-01-23 04:55:17
+Shop_K,5,"Excellent quality, fast delivery!",2025-01-04 11:56:53
+Shop_U,4,Timely delivery and good products.,2024-12-06 00:15:48
+Shop_Y,1,Some items were damaged.,2024-10-01 23:16:03
+Shop_U,3,Items were fresh and well-packed.,2024-12-07 12:56:07
+Shop_O,1,Delivery was very late.,2024-12-31 01:26:27
+Shop_M,3,Timely delivery and good products.,2024-10-10 12:35:46
+Shop_A,5,Great service as always.,2024-09-06 02:39:13
+Shop_O,5,Items were fresh and well-packed.,2024-12-27 20:28:14
+Shop_N,4,Items were fresh and well-packed.,2025-01-19 11:51:40
+Shop_Z,5,"Excellent quality, fast delivery!",2024-09-04 23:00:01
+Shop_Z,5,Very satisfied with the shop.,2024-12-15 19:49:39
+Shop_S,3,Great service as always.,2024-12-19 05:30:29
+Shop_C,5,"Excellent quality, fast delivery!",2024-12-10 05:02:54
+Shop_Z,3,"Excellent quality, fast delivery!",2024-10-09 08:59:12
+Shop_Y,3,Items were fresh and well-packed.,2024-10-10 22:36:19
+Shop_U,4,Items were fresh and well-packed.,2024-11-05 16:55:31
+Shop_C,3,"Excellent quality, fast delivery!",2025-01-04 23:09:55
+Shop_Y,5,Timely delivery and good products.,2024-10-22 12:51:52
+Shop_V,3,Very satisfied with the shop.,2024-10-25 20:43:19
+Shop_X,4,Timely delivery and good products.,2024-10-17 13:58:05
+Shop_J,4,Very satisfied with the shop.,2025-02-09 23:25:02
+Shop_S,4,Very satisfied with the shop.,2025-01-05 05:19:09
+Shop_T,3,Very satisfied with the shop.,2024-11-10 11:09:46
+Shop_G,2,Some items were damaged.,2024-11-22 02:15:33
+Shop_G,4,Timely delivery and good products.,2024-09-14 13:42:12
+Shop_N,2,Unsatisfactory service.,2025-02-21 04:58:49
+Shop_F,3,Timely delivery and good products.,2024-10-14 00:13:27
+Shop_S,3,Great service as always.,2024-11-09 07:12:15
+Shop_C,5,Great service as always.,2024-09-06 08:38:59
+Shop_B,3,Items were fresh and well-packed.,2025-01-18 18:58:47
+Shop_J,5,Very satisfied with the shop.,2025-01-05 19:46:11
+Shop_Z,5,Great service as always.,2024-11-20 02:02:16
+Shop_X,2,"Poor quality items, some were stale.",2024-11-10 12:11:53
+Shop_Z,5,Very satisfied with the shop.,2025-01-30 05:29:35
+Shop_G,1,Delivery was very late.,2024-09-01 01:43:10
+Shop_Z,2,Unsatisfactory service.,2024-11-04 08:43:55
+Shop_B,3,Timely delivery and good products.,2024-12-06 23:05:29
+Shop_W,4,"Excellent quality, fast delivery!",2024-09-04 19:21:21
+Shop_V,3,Great service as always.,2024-10-02 09:07:03
+Shop_I,2,"Poor quality items, some were stale.",2025-01-12 09:52:48
+Shop_R,5,Items were fresh and well-packed.,2025-02-23 11:27:06
+Shop_E,5,Great service as always.,2024-09-07 19:59:34
+Shop_A,3,Timely delivery and good products.,2024-11-12 03:27:44
+Shop_X,5,Great service as always.,2025-01-14 10:30:06
+Shop_J,1,Delivery was very late.,2024-11-06 14:11:33
+Shop_W,5,Very satisfied with the shop.,2024-12-01 23:34:53
+Shop_N,4,Items were fresh and well-packed.,2025-01-16 01:07:20
+Shop_G,4,Great service as always.,2025-01-01 11:35:42
+Shop_M,5,"Excellent quality, fast delivery!",2024-12-04 01:43:40
+Shop_W,3,Timely delivery and good products.,2024-10-19 20:46:38
+Shop_V,3,Very satisfied with the shop.,2025-02-03 15:05:59
+Shop_Q,5,Great service as always.,2024-11-22 06:52:20
+Shop_Z,5,Items were fresh and well-packed.,2024-11-08 10:03:28
+Shop_F,5,Very satisfied with the shop.,2025-02-12 01:29:21
+Shop_O,2,Some items were damaged.,2024-12-20 08:16:39
+Shop_S,3,Timely delivery and good products.,2025-02-20 19:44:12
+Shop_D,3,Timely delivery and good products.,2024-09-21 07:02:33
+Shop_O,4,Timely delivery and good products.,2024-12-24 23:21:22
+Shop_O,3,Items were fresh and well-packed.,2024-11-28 22:52:58
+Shop_G,1,Some items were damaged.,2024-09-25 02:30:18
+Shop_X,5,Timely delivery and good products.,2024-10-04 06:36:43
+Shop_T,3,Items were fresh and well-packed.,2024-10-11 21:18:11
+Shop_S,2,"Poor quality items, some were stale.",2025-01-06 15:06:09
+Shop_J,4,Timely delivery and good products.,2025-02-04 15:24:25
+Shop_M,3,Items were fresh and well-packed.,2024-11-08 19:27:05
+Shop_O,4,"Excellent quality, fast delivery!",2024-09-19 09:19:58
+Shop_U,5,Timely delivery and good products.,2024-09-13 10:11:52
+Shop_E,5,Items were fresh and well-packed.,2024-12-15 10:36:24
+Shop_Z,4,Items were fresh and well-packed.,2024-11-04 02:11:22
+Shop_P,3,"Excellent quality, fast delivery!",2025-01-23 17:10:42
+Shop_A,4,"Excellent quality, fast delivery!",2025-02-16 06:56:46
+Shop_S,3,Very satisfied with the shop.,2024-09-09 09:07:36
+Shop_I,5,Great service as always.,2024-11-10 08:07:51
+Shop_E,5,Timely delivery and good products.,2024-10-11 17:40:06
+Shop_Y,5,Items were fresh and well-packed.,2024-09-15 23:04:39
+Shop_F,5,Items were fresh and well-packed.,2024-12-24 07:09:33
+Shop_T,5,Great service as always.,2024-11-25 12:36:27
+Shop_S,4,"Excellent quality, fast delivery!",2025-01-24 06:27:24
+Shop_L,3,Great service as always.,2024-11-14 15:58:30
+Shop_L,5,Great service as always.,2025-01-20 17:19:32
+Shop_M,4,"Excellent quality, fast delivery!",2024-11-26 21:39:56
+Shop_D,5,Great service as always.,2024-09-04 12:55:22
+Shop_R,4,"Excellent quality, fast delivery!",2025-01-20 21:09:18
+Shop_K,5,"Excellent quality, fast delivery!",2025-01-01 18:24:51
+Shop_X,3,Great service as always.,2024-12-30 13:53:40
+Shop_Z,5,Items were fresh and well-packed.,2024-11-02 16:04:18
+Shop_I,4,Items were fresh and well-packed.,2024-10-06 04:55:41
+Shop_B,5,Items were fresh and well-packed.,2025-02-05 15:50:10
+Shop_V,5,Great service as always.,2025-02-17 20:06:42
+Shop_E,5,"Excellent quality, fast delivery!",2024-09-18 07:14:46
+Shop_R,4,Items were fresh and well-packed.,2024-12-16 12:02:07
+Shop_J,5,Great service as always.,2025-01-05 01:43:03
+Shop_S,5,Very satisfied with the shop.,2024-09-27 23:15:42
+Shop_G,3,Timely delivery and good products.,2024-11-03 18:55:17
+Shop_P,5,Great service as always.,2024-10-19 19:29:43
+Shop_D,5,Very satisfied with the shop.,2024-11-15 06:32:39
+Shop_G,3,Timely delivery and good products.,2024-09-04 00:58:33
+Shop_R,4,Timely delivery and good products.,2024-11-12 21:28:14
+Shop_X,4,"Excellent quality, fast delivery!",2025-02-12 14:48:54
+Shop_E,4,Timely delivery and good products.,2025-01-11 12:46:04
+Shop_Y,4,Very satisfied with the shop.,2024-12-26 04:02:13
+Shop_C,3,Very satisfied with the shop.,2024-10-07 21:22:49
+Shop_D,5,Very satisfied with the shop.,2024-12-01 10:09:17
+Shop_Y,5,Timely delivery and good products.,2024-09-13 21:16:54
+Shop_J,2,Items not as expected.,2025-01-07 08:00:04
+Shop_H,5,"Excellent quality, fast delivery!",2024-12-16 17:16:20
+Shop_I,2,"Poor quality items, some were stale.",2024-09-29 18:55:18
+Shop_E,3,"Excellent quality, fast delivery!",2025-02-11 11:40:55
+Shop_N,3,Great service as always.,2024-10-06 18:55:13
+Shop_H,3,Great service as always.,2025-01-11 16:59:06
+Shop_Q,3,Very satisfied with the shop.,2024-09-19 17:00:35
+Shop_O,3,Great service as always.,2024-09-14 23:04:51
+Shop_G,4,Very satisfied with the shop.,2024-09-26 22:32:41
+Shop_Z,2,Some items were damaged.,2025-01-24 13:54:15
+Shop_O,2,Some items were damaged.,2024-12-22 08:47:37
+Shop_L,5,Items were fresh and well-packed.,2024-11-30 23:00:49
+Shop_T,5,Items were fresh and well-packed.,2024-12-07 07:49:17
+Shop_M,5,Timely delivery and good products.,2024-11-07 05:20:21
+Shop_Q,3,Great service as always.,2024-11-11 00:11:23
+Shop_Z,5,Very satisfied with the shop.,2024-12-25 15:11:58
+Shop_F,4,Great service as always.,2024-12-04 15:41:31
+Shop_Q,4,Items were fresh and well-packed.,2024-12-25 10:19:28
+Shop_X,5,Timely delivery and good products.,2024-12-04 13:13:45
+Shop_P,4,Items were fresh and well-packed.,2024-12-08 06:08:58
+Shop_U,4,Great service as always.,2024-10-26 16:42:59
+Shop_Z,4,Great service as always.,2024-10-17 01:23:22
+Shop_D,5,Timely delivery and good products.,2024-11-10 19:01:02
+Shop_L,4,Timely delivery and good products.,2025-02-08 02:25:36
+Shop_O,4,Great service as always.,2024-11-22 10:26:44
+Shop_W,3,Items were fresh and well-packed.,2024-12-22 13:48:38
+Shop_T,5,Great service as always.,2024-10-28 06:44:52
+Shop_T,2,Unsatisfactory service.,2025-01-31 21:52:05
+Shop_Y,5,Very satisfied with the shop.,2024-10-12 10:37:10
+Shop_W,2,Items not as expected.,2024-09-16 16:29:34
+Shop_O,4,Very satisfied with the shop.,2025-01-09 15:48:29
+Shop_B,5,Very satisfied with the shop.,2025-02-23 15:35:35
+Shop_M,3,Timely delivery and good products.,2024-09-08 11:08:45
+Shop_U,3,Items were fresh and well-packed.,2024-10-07 19:41:37
+Shop_N,3,Great service as always.,2024-11-26 16:37:02
+Shop_Y,4,"Excellent quality, fast delivery!",2024-12-18 12:37:16
+Shop_B,4,Items were fresh and well-packed.,2024-10-11 20:51:10
+Shop_R,5,Great service as always.,2024-11-12 13:45:52
+Shop_C,5,Great service as always.,2024-10-15 05:12:41
+Shop_Y,5,"Excellent quality, fast delivery!",2024-11-03 14:42:30
+Shop_O,5,Items were fresh and well-packed.,2024-10-09 23:29:46
+Shop_K,3,"Excellent quality, fast delivery!",2024-12-10 07:04:08
+Shop_H,4,Great service as always.,2024-11-16 06:31:06
+Shop_H,3,Timely delivery and good products.,2024-10-07 07:32:06
+Shop_A,4,"Excellent quality, fast delivery!",2024-12-20 17:00:27
+Shop_T,5,Items were fresh and well-packed.,2024-10-29 03:43:16
+Shop_T,3,Items were fresh and well-packed.,2024-10-31 01:26:50
+Shop_W,3,"Excellent quality, fast delivery!",2024-10-24 05:13:49
+Shop_W,3,"Excellent quality, fast delivery!",2024-12-08 14:34:43
+Shop_Y,3,"Excellent quality, fast delivery!",2024-10-29 11:06:52
+Shop_I,4,Timely delivery and good products.,2024-09-27 19:45:09
+Shop_D,5,Timely delivery and good products.,2024-10-31 15:06:11
+Shop_S,4,Great service as always.,2025-02-17 23:10:56
+Shop_O,4,Great service as always.,2024-10-15 01:28:09
+Shop_U,4,Very satisfied with the shop.,2024-09-09 12:53:46
+Shop_G,5,Timely delivery and good products.,2025-02-04 12:30:09
+Shop_C,4,Great service as always.,2025-01-21 12:17:58
+Shop_L,4,"Excellent quality, fast delivery!",2024-09-29 21:50:32
+Shop_T,4,Very satisfied with the shop.,2024-11-04 20:25:49
+Shop_D,4,"Excellent quality, fast delivery!",2024-09-29 03:35:36
+Shop_E,3,Items were fresh and well-packed.,2025-02-03 09:44:42
+Shop_Q,2,Some items were damaged.,2025-02-04 16:52:23
+Shop_W,5,Great service as always.,2024-11-30 12:41:12
+Shop_Q,4,Items were fresh and well-packed.,2024-12-05 19:42:24
+Shop_Q,3,Items were fresh and well-packed.,2024-08-31 17:14:00
+Shop_K,4,Timely delivery and good products.,2024-11-02 01:45:14
+Shop_T,4,Very satisfied with the shop.,2024-10-17 09:12:42
+Shop_G,4,Items were fresh and well-packed.,2024-12-23 08:14:16
+Shop_X,3,Great service as always.,2024-09-13 16:07:06
+Shop_I,2,Unsatisfactory service.,2025-01-24 10:21:18
+Shop_M,3,"Excellent quality, fast delivery!",2024-09-17 06:02:21
+Shop_U,3,Items were fresh and well-packed.,2025-01-27 12:57:57
+Shop_E,2,Some items were damaged.,2025-02-04 07:29:49
+Shop_Z,4,Very satisfied with the shop.,2024-12-04 16:56:04
+Shop_J,4,Very satisfied with the shop.,2025-02-04 21:25:39
+Shop_Y,1,"Poor quality items, some were stale.",2024-09-01 17:08:24
+Shop_S,3,Timely delivery and good products.,2025-01-02 21:29:42
+Shop_U,2,Unsatisfactory service.,2024-09-17 23:49:29
+Shop_Z,3,"Excellent quality, fast delivery!",2024-11-07 05:55:29
+Shop_N,4,Great service as always.,2024-09-18 07:15:34
+Shop_N,5,"Excellent quality, fast delivery!",2024-09-01 16:14:54
+Shop_A,3,Items were fresh and well-packed.,2025-01-28 15:16:01
+Shop_Q,3,Great service as always.,2024-12-17 02:52:51
+Shop_Q,5,Great service as always.,2024-10-30 04:52:51
+Shop_A,3,Items were fresh and well-packed.,2025-02-02 07:21:23
+Shop_G,3,"Excellent quality, fast delivery!",2025-01-29 03:18:53
+Shop_W,3,"Excellent quality, fast delivery!",2025-01-03 00:17:33
+Shop_A,4,Items were fresh and well-packed.,2025-01-20 21:12:02
+Shop_D,2,Delivery was very late.,2024-11-04 14:36:16
+Shop_S,4,Items were fresh and well-packed.,2024-11-28 12:47:21
+Shop_A,3,Timely delivery and good products.,2025-02-02 07:58:17
+Shop_D,4,Timely delivery and good products.,2024-11-27 06:02:27
+Shop_E,4,Very satisfied with the shop.,2025-02-22 10:30:40
+Shop_A,2,Delivery was very late.,2024-12-27 23:40:25
+Shop_X,4,"Excellent quality, fast delivery!",2024-12-06 07:06:53
+Shop_W,3,Great service as always.,2024-12-27 07:06:37
+Shop_Q,3,Great service as always.,2024-12-07 09:37:52
+Shop_O,3,Very satisfied with the shop.,2025-02-06 09:56:43
+Shop_A,2,Items not as expected.,2024-12-25 10:08:48
+Shop_E,4,Items were fresh and well-packed.,2024-12-16 22:51:44
+Shop_S,4,Timely delivery and good products.,2024-11-21 18:43:27
+Shop_Z,4,Timely delivery and good products.,2024-09-27 12:22:13
+Shop_F,5,Great service as always.,2025-02-06 04:19:15
+Shop_Z,5,Very satisfied with the shop.,2024-11-17 07:45:03
+Shop_D,3,Timely delivery and good products.,2025-01-02 01:18:30
+Shop_I,4,Items were fresh and well-packed.,2025-02-22 05:52:06
+Shop_P,4,"Excellent quality, fast delivery!",2024-11-10 18:04:55
+Shop_B,3,Items were fresh and well-packed.,2024-11-14 15:12:35
+Shop_D,3,Items were fresh and well-packed.,2025-01-21 13:18:55
+Shop_D,3,Very satisfied with the shop.,2024-10-18 19:13:37
+Shop_S,4,Very satisfied with the shop.,2024-09-05 23:21:09
+Shop_L,4,Great service as always.,2024-10-25 08:15:48
+Shop_H,3,Great service as always.,2024-09-19 20:41:39
+Shop_F,5,Timely delivery and good products.,2024-12-17 23:50:47
+Shop_F,4,Items were fresh and well-packed.,2025-01-02 04:11:14
+Shop_Q,3,Very satisfied with the shop.,2025-02-18 03:17:54
+Shop_D,4,Very satisfied with the shop.,2025-01-30 21:51:56
+Shop_V,3,Timely delivery and good products.,2024-09-23 23:55:45
+Shop_U,4,Timely delivery and good products.,2025-02-16 08:06:17
+Shop_Q,3,Timely delivery and good products.,2024-12-18 14:25:53
+Shop_R,4,Very satisfied with the shop.,2024-10-15 16:01:19
+Shop_M,5,Great service as always.,2024-11-07 17:07:26
+Shop_F,3,"Excellent quality, fast delivery!",2024-09-26 08:17:46
+Shop_R,3,"Excellent quality, fast delivery!",2024-11-30 03:51:57
+Shop_C,4,"Excellent quality, fast delivery!",2025-01-24 22:16:32
+Shop_G,4,Timely delivery and good products.,2025-01-19 12:42:50
+Shop_F,3,"Excellent quality, fast delivery!",2024-11-06 06:17:22
+Shop_U,2,"Poor quality items, some were stale.",2025-01-26 17:19:40
+Shop_U,4,Very satisfied with the shop.,2024-09-17 21:05:37
+Shop_G,5,Great service as always.,2025-01-01 16:14:59
+Shop_P,4,Great service as always.,2024-11-23 11:17:32
+Shop_C,5,Timely delivery and good products.,2024-09-18 21:46:50
+Shop_B,5,"Excellent quality, fast delivery!",2024-11-06 14:23:33
+Shop_S,5,Timely delivery and good products.,2025-02-04 19:49:43
+Shop_R,3,Great service as always.,2024-09-10 00:19:57
+Shop_S,5,"Excellent quality, fast delivery!",2025-01-05 03:48:44
+Shop_Z,3,Very satisfied with the shop.,2024-10-04 15:11:53
+Shop_U,5,"Excellent quality, fast delivery!",2024-11-09 12:45:24
+Shop_U,5,Very satisfied with the shop.,2024-10-10 00:08:16
+Shop_U,4,Timely delivery and good products.,2025-02-21 05:17:51
+Shop_U,5,Very satisfied with the shop.,2024-08-31 16:02:01
+Shop_T,3,"Excellent quality, fast delivery!",2024-09-22 05:49:13
+Shop_T,3,"Excellent quality, fast delivery!",2024-12-14 07:49:23
+Shop_D,4,"Excellent quality, fast delivery!",2025-01-02 14:06:29
+Shop_O,3,Timely delivery and good products.,2025-01-17 17:35:08
+Shop_M,4,Items were fresh and well-packed.,2025-01-04 17:02:27
+Shop_E,5,Items were fresh and well-packed.,2024-08-31 19:43:41
+Shop_O,3,Very satisfied with the shop.,2024-11-01 07:07:25
+Shop_P,4,Timely delivery and good products.,2024-11-04 21:04:38
+Shop_O,3,Great service as always.,2024-12-06 04:17:27
+Shop_N,3,"Excellent quality, fast delivery!",2024-10-02 21:36:00
+Shop_H,3,Very satisfied with the shop.,2024-11-05 07:41:04
+Shop_X,4,Items were fresh and well-packed.,2024-12-31 11:15:47
+Shop_I,4,Great service as always.,2024-09-26 09:37:40
+Shop_E,5,Items were fresh and well-packed.,2024-12-22 10:37:53
+Shop_Z,3,Timely delivery and good products.,2024-09-08 01:53:37
+Shop_Z,5,"Excellent quality, fast delivery!",2024-12-02 07:38:57
+Shop_D,4,"Excellent quality, fast delivery!",2024-12-25 07:30:08
+Shop_H,3,Timely delivery and good products.,2025-02-21 09:10:31
+Shop_S,2,"Poor quality items, some were stale.",2024-12-07 06:08:13
+Shop_G,5,"Excellent quality, fast delivery!",2024-12-06 08:49:21
+Shop_H,4,Items were fresh and well-packed.,2024-09-04 07:58:58
+Shop_S,4,Great service as always.,2024-09-22 20:51:24
+Shop_K,1,Items not as expected.,2024-11-20 22:00:16
+Shop_U,4,Items were fresh and well-packed.,2024-09-26 10:41:21
+Shop_B,4,Very satisfied with the shop.,2025-02-09 09:07:10
+Shop_B,3,"Excellent quality, fast delivery!",2025-02-25 09:34:17
+Shop_T,5,Very satisfied with the shop.,2025-01-23 03:55:45
+Shop_I,3,Items were fresh and well-packed.,2024-10-08 12:45:30
+Shop_H,1,Delivery was very late.,2024-12-06 08:11:50
+Shop_B,4,Great service as always.,2025-01-04 07:07:11
+Shop_L,4,Items were fresh and well-packed.,2024-12-06 00:07:09
+Shop_U,5,"Excellent quality, fast delivery!",2024-11-18 21:51:59
+Shop_A,5,Items were fresh and well-packed.,2024-10-09 05:43:29
+Shop_O,4,Items were fresh and well-packed.,2024-11-28 17:24:50
+Shop_L,4,"Excellent quality, fast delivery!",2025-02-15 18:31:36
+Shop_S,3,Great service as always.,2024-12-07 17:20:50
+Shop_T,4,Great service as always.,2025-01-07 06:05:15
+Shop_Q,3,Great service as always.,2025-01-24 09:34:07
+Shop_H,5,Very satisfied with the shop.,2024-10-06 13:28:30
+Shop_X,2,Some items were damaged.,2025-01-06 01:32:37
+Shop_Z,5,Very satisfied with the shop.,2024-11-11 04:59:07
+Shop_D,2,"Poor quality items, some were stale.",2025-01-03 13:20:55
+Shop_R,4,Very satisfied with the shop.,2025-01-03 04:56:47
+Shop_P,3,Great service as always.,2024-12-08 09:59:19
+Shop_X,3,Timely delivery and good products.,2025-01-05 13:06:47
+Shop_S,5,Great service as always.,2024-10-12 00:52:15
+Shop_T,2,"Poor quality items, some were stale.",2024-09-08 02:27:41
+Shop_C,1,"Poor quality items, some were stale.",2024-09-09 01:48:59
+Shop_Z,4,Timely delivery and good products.,2024-11-23 07:12:18
+Shop_B,4,Very satisfied with the shop.,2025-02-06 18:37:26
+Shop_Z,3,"Excellent quality, fast delivery!",2024-10-25 05:52:49
+Shop_S,5,Very satisfied with the shop.,2025-01-10 16:46:07
+Shop_B,5,Items were fresh and well-packed.,2025-01-24 07:22:41
+Shop_P,2,Items not as expected.,2025-01-03 02:32:58
+Shop_J,3,"Excellent quality, fast delivery!",2025-01-22 15:29:43
+Shop_Y,5,Timely delivery and good products.,2024-09-11 02:47:46
+Shop_Q,5,"Excellent quality, fast delivery!",2025-01-07 22:52:40
+Shop_W,3,Timely delivery and good products.,2025-02-10 05:31:14
+Shop_A,5,Items were fresh and well-packed.,2024-10-06 07:33:22
+Shop_L,5,Timely delivery and good products.,2024-11-03 11:42:54
+Shop_B,5,"Excellent quality, fast delivery!",2025-01-05 00:14:33
+Shop_O,5,"Excellent quality, fast delivery!",2025-01-06 11:43:48
+Shop_W,2,Delivery was very late.,2024-09-28 01:02:17
+Shop_W,4,"Excellent quality, fast delivery!",2024-10-31 16:10:28
+Shop_M,4,Items were fresh and well-packed.,2024-10-18 04:08:31
+Shop_G,5,"Excellent quality, fast delivery!",2024-09-23 10:35:11
+Shop_O,4,"Excellent quality, fast delivery!",2024-11-08 19:49:12
+Shop_K,3,Items were fresh and well-packed.,2024-11-23 00:38:53
+Shop_F,4,Very satisfied with the shop.,2024-12-09 18:56:11
+Shop_A,4,Timely delivery and good products.,2025-01-14 09:56:44
+Shop_T,4,Great service as always.,2025-02-17 12:58:33
+Shop_N,4,Timely delivery and good products.,2024-12-19 22:24:11
+Shop_L,5,Items were fresh and well-packed.,2025-01-17 20:05:23
+Shop_U,5,Timely delivery and good products.,2025-02-03 08:18:54
+Shop_I,1,Unsatisfactory service.,2024-10-31 18:09:15
+Shop_G,5,Very satisfied with the shop.,2024-09-07 09:07:12
+Shop_Q,2,Unsatisfactory service.,2025-02-18 22:45:09
+Shop_P,5,Great service as always.,2024-11-17 15:36:19
+Shop_M,4,Items were fresh and well-packed.,2024-09-04 03:58:54
+Shop_D,5,Timely delivery and good products.,2024-12-15 22:51:13
+Shop_C,5,Items were fresh and well-packed.,2025-02-09 22:21:20
+Shop_K,5,Very satisfied with the shop.,2024-09-04 23:44:44
+Shop_C,4,"Excellent quality, fast delivery!",2024-09-13 18:53:40
+Shop_N,3,"Excellent quality, fast delivery!",2024-10-07 05:54:15
+Shop_Q,4,Items were fresh and well-packed.,2024-11-12 05:01:39
+Shop_X,3,Very satisfied with the shop.,2024-10-12 10:57:28
+Shop_Y,5,Great service as always.,2024-10-25 16:51:12
+Shop_R,3,Very satisfied with the shop.,2024-08-31 21:53:56
+Shop_P,5,Very satisfied with the shop.,2025-01-09 20:44:55
+Shop_K,5,Items were fresh and well-packed.,2024-10-14 06:24:56
+Shop_L,5,Great service as always.,2024-09-21 17:05:48
+Shop_S,3,Items were fresh and well-packed.,2024-09-29 11:39:14
+Shop_R,5,Very satisfied with the shop.,2024-09-23 02:27:11
+Shop_R,4,Timely delivery and good products.,2025-02-12 09:22:00
+Shop_D,5,Great service as always.,2025-01-18 03:50:49
+Shop_L,4,Items were fresh and well-packed.,2025-01-16 13:50:04
+Shop_E,5,Great service as always.,2025-01-01 23:59:21
+Shop_H,4,"Excellent quality, fast delivery!",2024-12-25 00:37:26
+Shop_D,5,Great service as always.,2024-09-01 17:30:34
+Shop_Z,4,"Excellent quality, fast delivery!",2024-12-10 21:43:04
+Shop_P,2,"Poor quality items, some were stale.",2024-11-17 09:22:53
+Shop_H,4,Very satisfied with the shop.,2024-11-01 12:06:48
+Shop_L,4,Timely delivery and good products.,2025-01-25 07:31:11
+Shop_P,3,Timely delivery and good products.,2024-09-06 06:04:17
+Shop_U,4,Very satisfied with the shop.,2024-09-22 03:58:04
+Shop_K,4,Very satisfied with the shop.,2024-11-11 20:44:10
+Shop_L,5,Timely delivery and good products.,2024-09-18 23:43:33
+Shop_R,4,Very satisfied with the shop.,2024-10-15 04:47:29
+Shop_Y,4,"Excellent quality, fast delivery!",2025-02-12 12:23:06
+Shop_A,4,"Excellent quality, fast delivery!",2024-09-01 21:50:06
+Shop_A,4,Great service as always.,2024-10-05 10:47:49
+Shop_N,1,Some items were damaged.,2025-01-17 00:47:22
+Shop_U,5,Very satisfied with the shop.,2024-12-11 12:44:26
+Shop_P,3,Great service as always.,2024-10-29 21:35:48
+Shop_I,5,Great service as always.,2025-02-02 02:02:54
+Shop_R,5,Timely delivery and good products.,2024-12-21 21:01:55
+Shop_J,5,Timely delivery and good products.,2024-09-16 09:06:50
+Shop_B,4,Very satisfied with the shop.,2024-09-04 21:24:41
+Shop_E,1,"Poor quality items, some were stale.",2024-11-21 02:04:54
+Shop_P,3,Great service as always.,2024-10-18 11:05:56
+Shop_S,3,Items were fresh and well-packed.,2025-02-24 16:25:53
+Shop_S,2,Unsatisfactory service.,2024-12-02 18:16:58
+Shop_M,1,Some items were damaged.,2024-11-04 13:49:29
+Shop_G,5,"Excellent quality, fast delivery!",2024-12-08 13:13:49
+Shop_B,3,Items were fresh and well-packed.,2025-01-21 04:40:01
+Shop_N,5,Timely delivery and good products.,2024-12-16 11:05:52
+Shop_F,3,Timely delivery and good products.,2024-09-24 17:30:21
+Shop_A,3,Items were fresh and well-packed.,2024-09-29 00:22:14
+Shop_S,5,"Excellent quality, fast delivery!",2025-01-16 10:03:31
+Shop_Q,3,Great service as always.,2024-11-08 19:43:26
+Shop_H,3,Items were fresh and well-packed.,2025-01-02 03:20:56
+Shop_J,5,Items were fresh and well-packed.,2025-02-22 23:03:22
+Shop_H,4,Items were fresh and well-packed.,2025-02-09 20:18:52
+Shop_B,4,Timely delivery and good products.,2024-11-01 09:32:48
+Shop_H,4,Items were fresh and well-packed.,2024-12-31 21:37:46
+Shop_F,5,"Excellent quality, fast delivery!",2025-01-20 22:50:55
+Shop_W,3,"Excellent quality, fast delivery!",2024-10-01 08:22:00
+Shop_B,3,Great service as always.,2024-12-16 19:55:42
+Shop_S,4,"Excellent quality, fast delivery!",2025-01-23 00:05:23
+Shop_D,3,Items were fresh and well-packed.,2024-10-15 05:46:42
+Shop_V,3,Great service as always.,2024-12-21 06:57:07
+Shop_S,3,Great service as always.,2024-10-13 23:00:36
+Shop_U,4,Timely delivery and good products.,2024-09-24 16:37:38
+Shop_E,3,Very satisfied with the shop.,2024-10-15 08:14:10
+Shop_X,4,Items were fresh and well-packed.,2025-01-02 07:48:15
+Shop_D,4,Items were fresh and well-packed.,2024-09-11 00:11:07
+Shop_Y,3,"Excellent quality, fast delivery!",2024-11-20 08:48:06
+Shop_Y,4,Timely delivery and good products.,2025-02-22 14:13:42
+Shop_W,5,Timely delivery and good products.,2024-09-11 06:26:14
+Shop_N,4,"Excellent quality, fast delivery!",2024-10-04 06:22:35
+Shop_H,5,"Excellent quality, fast delivery!",2025-01-23 14:40:44
+Shop_D,3,Very satisfied with the shop.,2024-09-14 22:29:40
+Shop_K,5,"Excellent quality, fast delivery!",2024-12-28 07:51:33
+Shop_J,5,"Excellent quality, fast delivery!",2024-12-19 08:29:56
+Shop_K,3,Items were fresh and well-packed.,2024-10-09 02:21:08
+Shop_U,5,Very satisfied with the shop.,2024-10-20 17:52:11
+Shop_B,2,Some items were damaged.,2024-12-17 10:48:03
+Shop_E,4,Very satisfied with the shop.,2024-09-02 23:22:47
+Shop_U,1,Some items were damaged.,2025-02-12 23:55:31
+Shop_K,2,Delivery was very late.,2024-11-25 21:14:47
+Shop_B,3,"Excellent quality, fast delivery!",2024-11-18 16:55:23
+Shop_B,3,Timely delivery and good products.,2024-12-31 08:04:39
+Shop_H,4,Very satisfied with the shop.,2025-01-02 07:10:16
+Shop_I,5,"Excellent quality, fast delivery!",2024-11-03 09:11:40
+Shop_B,4,Very satisfied with the shop.,2024-12-22 17:23:28
+Shop_E,2,Some items were damaged.,2025-01-17 15:57:40
+Shop_Q,3,Great service as always.,2024-11-10 14:10:30
+Shop_B,5,"Excellent quality, fast delivery!",2024-09-18 06:55:10
+Shop_X,4,Great service as always.,2025-02-26 10:45:59
+Shop_Z,4,Great service as always.,2024-11-27 14:54:56
+Shop_P,5,"Excellent quality, fast delivery!",2025-01-11 03:53:31
+Shop_O,3,Timely delivery and good products.,2024-11-02 16:00:03
+Shop_Z,3,Great service as always.,2025-01-16 11:33:39
+Shop_L,3,"Excellent quality, fast delivery!",2024-12-01 14:57:03
+Shop_H,2,Some items were damaged.,2025-02-25 12:21:11
+Shop_P,4,Very satisfied with the shop.,2024-11-04 02:03:31
+Shop_G,5,Great service as always.,2024-10-17 03:37:07
+Shop_V,4,Items were fresh and well-packed.,2024-10-14 04:15:28
+Shop_H,2,Unsatisfactory service.,2025-01-10 08:33:14
+Shop_H,3,Timely delivery and good products.,2024-11-13 11:08:46
+Shop_Q,5,Timely delivery and good products.,2025-02-25 02:52:02
+Shop_S,3,Very satisfied with the shop.,2025-01-07 20:44:08
+Shop_L,4,Timely delivery and good products.,2025-01-14 18:56:51
+Shop_D,5,Items were fresh and well-packed.,2024-09-26 00:04:57
+Shop_B,3,Very satisfied with the shop.,2024-12-03 16:48:35
+Shop_V,5,"Excellent quality, fast delivery!",2024-12-20 21:33:00
+Shop_O,4,Great service as always.,2025-01-28 05:54:39
+Shop_E,3,Items were fresh and well-packed.,2024-12-19 02:17:58
+Shop_A,3,Great service as always.,2024-10-21 06:21:32
+Shop_S,5,Very satisfied with the shop.,2024-10-17 17:35:43
+Shop_F,4,"Excellent quality, fast delivery!",2024-10-14 22:51:39
+Shop_G,5,Timely delivery and good products.,2025-02-20 00:16:05
+Shop_Y,5,Great service as always.,2025-01-31 22:55:31
+Shop_M,1,"Poor quality items, some were stale.",2024-11-04 21:40:14
+Shop_L,4,"Excellent quality, fast delivery!",2025-01-25 15:26:38
+Shop_Q,5,Items were fresh and well-packed.,2024-11-14 15:31:23
+Shop_P,5,Items were fresh and well-packed.,2024-09-04 11:18:41
+Shop_A,4,Timely delivery and good products.,2024-09-24 14:58:21
+Shop_N,3,Timely delivery and good products.,2024-11-12 05:15:03
+Shop_U,5,"Excellent quality, fast delivery!",2025-02-19 02:01:40
+Shop_X,4,Very satisfied with the shop.,2025-02-04 06:51:30
+Shop_M,5,"Excellent quality, fast delivery!",2024-10-10 06:34:12
+Shop_L,5,Timely delivery and good products.,2024-09-27 14:43:12
+Shop_A,2,Some items were damaged.,2024-11-17 16:55:11
+Shop_E,5,Great service as always.,2025-02-07 13:51:09
+Shop_C,3,Great service as always.,2024-11-29 22:14:50
+Shop_W,4,Very satisfied with the shop.,2024-11-17 10:36:06
+Shop_Z,2,Delivery was very late.,2025-02-09 23:19:56
+Shop_T,4,Great service as always.,2024-10-22 23:57:36
+Shop_Y,4,Timely delivery and good products.,2025-02-14 04:37:47
+Shop_O,4,Timely delivery and good products.,2024-10-19 19:41:52
+Shop_I,4,Items were fresh and well-packed.,2024-08-31 18:56:27
+Shop_B,3,Items were fresh and well-packed.,2025-02-01 09:33:04
+Shop_R,3,Very satisfied with the shop.,2025-01-26 06:07:36
+Shop_H,4,Great service as always.,2025-02-16 01:00:37
+Shop_W,5,Timely delivery and good products.,2024-10-13 20:49:12
+Shop_X,4,Very satisfied with the shop.,2025-01-12 12:04:58
+Shop_G,5,Very satisfied with the shop.,2024-10-13 07:04:40
+Shop_A,4,Items were fresh and well-packed.,2024-10-13 15:04:27
+Shop_X,5,Great service as always.,2024-10-30 17:00:17
+Shop_E,4,Items were fresh and well-packed.,2025-01-31 10:57:35
+Shop_D,3,Timely delivery and good products.,2025-02-05 19:14:53
+Shop_Y,5,Timely delivery and good products.,2024-10-07 15:32:29
+Shop_X,4,Timely delivery and good products.,2024-09-06 11:47:51
+Shop_Y,3,Great service as always.,2024-12-27 09:18:03
+Shop_U,3,"Excellent quality, fast delivery!",2025-01-31 22:59:52
+Shop_H,1,Delivery was very late.,2025-01-30 08:16:02
+Shop_N,5,Items were fresh and well-packed.,2024-09-21 22:43:03
+Shop_Y,4,Very satisfied with the shop.,2024-10-17 09:32:39
+Shop_I,5,Timely delivery and good products.,2024-09-29 21:00:20
+Shop_U,3,Very satisfied with the shop.,2024-12-01 22:44:01
+Shop_I,5,Items were fresh and well-packed.,2025-02-05 14:16:46
+Shop_H,5,Items were fresh and well-packed.,2025-01-11 07:54:29
+Shop_K,5,"Excellent quality, fast delivery!",2024-09-24 17:46:07
+Shop_O,3,"Excellent quality, fast delivery!",2024-09-17 06:44:42
+Shop_S,4,Timely delivery and good products.,2024-11-28 15:54:14
+Shop_I,4,Great service as always.,2024-09-26 20:46:19
+Shop_M,3,Items were fresh and well-packed.,2025-01-23 08:25:12
+Shop_X,5,Very satisfied with the shop.,2024-09-27 01:33:43
+Shop_U,4,Very satisfied with the shop.,2025-02-08 05:01:54
+Shop_X,4,Items were fresh and well-packed.,2024-11-12 07:05:35
+Shop_U,5,Great service as always.,2024-10-05 10:35:17
+Shop_G,3,Great service as always.,2025-02-25 04:42:55
+Shop_V,3,"Excellent quality, fast delivery!",2024-10-08 08:27:48
+Shop_S,5,Items were fresh and well-packed.,2024-10-01 09:19:44
+Shop_J,5,Very satisfied with the shop.,2024-09-08 22:09:20
+Shop_F,3,"Excellent quality, fast delivery!",2025-01-03 12:02:28
+Shop_V,5,"Excellent quality, fast delivery!",2025-01-26 21:30:45
+Shop_B,3,Timely delivery and good products.,2025-01-09 15:42:54
+Shop_W,4,Very satisfied with the shop.,2025-02-13 20:08:27
+Shop_I,2,"Poor quality items, some were stale.",2024-12-10 00:46:11
+Shop_B,4,Timely delivery and good products.,2024-09-14 09:25:09
+Shop_T,5,Items were fresh and well-packed.,2024-12-20 02:29:58
+Shop_I,2,Delivery was very late.,2025-01-30 01:03:46
+Shop_G,5,Timely delivery and good products.,2024-10-21 00:33:34
+Shop_P,4,"Excellent quality, fast delivery!",2024-10-18 08:28:27
+Shop_Z,4,Very satisfied with the shop.,2025-01-26 19:40:30
+Shop_Y,3,Very satisfied with the shop.,2025-01-27 04:05:25
+Shop_C,4,Great service as always.,2025-02-19 15:52:01
+Shop_C,5,"Excellent quality, fast delivery!",2025-01-01 11:43:06
+Shop_Y,4,"Excellent quality, fast delivery!",2025-01-16 05:16:33
+Shop_B,2,Unsatisfactory service.,2024-10-27 16:00:38
+Shop_I,4,Great service as always.,2025-01-31 23:30:25
+Shop_W,3,Timely delivery and good products.,2025-01-28 09:27:36
+Shop_N,5,"Excellent quality, fast delivery!",2024-10-15 00:45:50
+Shop_R,4,Great service as always.,2025-01-23 07:08:24
+Shop_Q,5,Items were fresh and well-packed.,2024-12-28 03:39:54
+Shop_M,1,Delivery was very late.,2024-12-07 15:29:55
+Shop_F,5,"Excellent quality, fast delivery!",2024-09-15 19:11:31
+Shop_L,3,Very satisfied with the shop.,2024-09-02 06:06:10
+Shop_H,3,Items were fresh and well-packed.,2024-10-12 22:04:34
+Shop_M,3,Items were fresh and well-packed.,2024-09-20 01:57:05
+Shop_D,5,Items were fresh and well-packed.,2025-02-20 16:40:45
+Shop_B,3,Timely delivery and good products.,2025-02-05 19:22:56
+Shop_F,4,"Excellent quality, fast delivery!",2024-09-17 22:23:05
+Shop_X,3,Great service as always.,2024-10-04 03:12:47
+Shop_I,3,Timely delivery and good products.,2025-02-17 01:36:57
+Shop_K,4,Very satisfied with the shop.,2025-01-31 17:55:54
+Shop_O,5,"Excellent quality, fast delivery!",2024-09-10 17:39:01
+Shop_U,3,Timely delivery and good products.,2024-10-30 13:10:07
+Shop_F,5,Great service as always.,2024-09-12 08:15:36
+Shop_H,4,Timely delivery and good products.,2024-12-07 10:17:26
+Shop_O,5,Timely delivery and good products.,2025-01-29 20:30:30
+Shop_L,5,Very satisfied with the shop.,2024-12-26 13:54:40
+Shop_K,2,Items not as expected.,2025-02-16 04:02:50
+Shop_N,4,"Excellent quality, fast delivery!",2025-02-21 02:47:52
+Shop_D,3,Great service as always.,2024-12-04 12:37:05
+Shop_X,5,Very satisfied with the shop.,2025-02-24 00:58:39
+Shop_Z,5,Great service as always.,2025-01-08 11:37:45
+Shop_A,3,Great service as always.,2024-12-22 06:58:12
+Shop_W,4,Great service as always.,2024-09-10 19:39:19
+Shop_Y,3,Very satisfied with the shop.,2024-10-10 05:09:40
+Shop_K,4,Timely delivery and good products.,2024-10-03 05:18:36
+Shop_O,5,Timely delivery and good products.,2024-11-22 21:05:05
+Shop_U,1,Unsatisfactory service.,2024-11-30 20:19:40
+Shop_S,2,"Poor quality items, some were stale.",2024-12-28 20:58:28
+Shop_Z,5,Timely delivery and good products.,2025-01-13 13:47:11
+Shop_J,4,Timely delivery and good products.,2024-10-14 14:06:37
+Shop_G,1,Unsatisfactory service.,2024-09-04 05:19:57
+Shop_C,4,Timely delivery and good products.,2025-02-14 15:31:54
+Shop_M,3,Timely delivery and good products.,2025-01-16 00:32:48
+Shop_D,5,Great service as always.,2025-01-21 15:16:44
+Shop_Y,4,Items were fresh and well-packed.,2024-10-01 16:24:05
+Shop_G,3,Very satisfied with the shop.,2024-11-14 04:23:45
+Shop_T,5,Great service as always.,2024-11-11 17:06:18
+Shop_Y,3,Timely delivery and good products.,2024-12-25 21:14:53
+Shop_K,3,Items were fresh and well-packed.,2024-12-03 10:30:36
+Shop_S,3,Items were fresh and well-packed.,2024-10-10 06:21:42
+Shop_T,5,Timely delivery and good products.,2025-01-16 06:35:51
+Shop_H,4,"Excellent quality, fast delivery!",2025-01-23 08:15:57
+Shop_Y,5,Items were fresh and well-packed.,2025-02-04 02:52:49
+Shop_W,1,"Poor quality items, some were stale.",2024-10-04 07:53:46
+Shop_U,3,"Excellent quality, fast delivery!",2024-09-27 15:03:06
+Shop_E,3,Items were fresh and well-packed.,2025-01-17 02:04:38
+Shop_L,4,Great service as always.,2025-01-29 21:07:35
+Shop_B,3,Very satisfied with the shop.,2025-02-09 00:38:23
+Shop_J,5,"Excellent quality, fast delivery!",2024-11-14 16:23:08
+Shop_G,5,Items were fresh and well-packed.,2025-01-05 22:57:47
+Shop_A,3,Very satisfied with the shop.,2024-11-12 23:43:27
+Shop_Y,5,Great service as always.,2024-12-05 18:47:28
+Shop_G,5,"Excellent quality, fast delivery!",2024-10-16 09:56:34
+Shop_F,4,Timely delivery and good products.,2024-09-07 03:09:25
+Shop_U,3,"Excellent quality, fast delivery!",2024-12-03 08:51:29
+Shop_U,5,Great service as always.,2024-12-20 15:02:09
+Shop_K,3,Timely delivery and good products.,2025-01-31 11:35:02
+Shop_Z,3,Items were fresh and well-packed.,2024-09-09 16:23:45
+Shop_I,4,Items were fresh and well-packed.,2024-10-09 07:22:11
+Shop_W,3,Very satisfied with the shop.,2024-09-10 14:35:14
+Shop_R,4,Items were fresh and well-packed.,2025-01-29 04:22:52
+Shop_K,3,Timely delivery and good products.,2024-12-11 21:29:37
+Shop_W,5,Very satisfied with the shop.,2024-12-16 17:31:32
+Shop_M,1,Items not as expected.,2024-09-12 20:13:19
+Shop_M,5,Great service as always.,2024-10-16 21:09:12
+Shop_Q,2,Unsatisfactory service.,2024-11-02 19:17:05
+Shop_L,3,Timely delivery and good products.,2025-01-25 04:31:10
+Shop_F,5,"Excellent quality, fast delivery!",2025-01-30 06:41:19
+Shop_C,4,Very satisfied with the shop.,2024-12-03 00:46:17
+Shop_G,4,Great service as always.,2024-12-30 13:36:52
+Shop_D,2,Items not as expected.,2024-12-31 16:15:05
+Shop_I,4,Very satisfied with the shop.,2024-10-14 06:11:16
+Shop_R,5,Very satisfied with the shop.,2025-01-21 07:05:41
+Shop_Q,5,Timely delivery and good products.,2025-02-18 17:41:50
+Shop_U,2,Items not as expected.,2025-01-22 20:06:26
+Shop_M,4,Items were fresh and well-packed.,2024-11-15 02:31:45
+Shop_L,3,Very satisfied with the shop.,2024-10-13 17:31:27
+Shop_E,3,Great service as always.,2025-01-13 19:35:49
+Shop_D,4,"Excellent quality, fast delivery!",2025-01-02 20:17:09
+Shop_Q,3,"Excellent quality, fast delivery!",2024-12-22 23:28:51
+Shop_O,5,Timely delivery and good products.,2024-09-16 08:37:06
+Shop_P,5,Items were fresh and well-packed.,2024-12-03 08:24:48
+Shop_E,4,Timely delivery and good products.,2024-10-24 01:11:25
+Shop_O,1,Unsatisfactory service.,2025-01-02 04:40:38
+Shop_R,4,Very satisfied with the shop.,2025-02-24 23:36:11
+Shop_R,1,"Poor quality items, some were stale.",2024-09-27 13:37:11
+Shop_M,3,Very satisfied with the shop.,2025-02-15 12:53:32
+Shop_H,4,Very satisfied with the shop.,2025-01-02 06:21:19
+Shop_X,4,"Excellent quality, fast delivery!",2024-09-01 06:56:28
+Shop_O,3,Items were fresh and well-packed.,2024-09-10 15:15:11
+Shop_E,4,Timely delivery and good products.,2024-10-21 02:02:30
+Shop_J,4,Items were fresh and well-packed.,2025-02-19 14:27:58
+Shop_V,4,Items were fresh and well-packed.,2024-11-22 07:43:55
+Shop_K,4,Great service as always.,2024-09-16 03:00:22
+Shop_U,5,Very satisfied with the shop.,2024-10-12 14:57:14
+Shop_J,4,"Excellent quality, fast delivery!",2024-09-16 14:35:16
+Shop_L,4,Great service as always.,2024-10-21 08:36:19
+Shop_D,5,Very satisfied with the shop.,2025-01-21 04:06:46
+Shop_S,2,Unsatisfactory service.,2024-10-07 10:08:55
+Shop_H,5,Timely delivery and good products.,2024-09-23 19:42:59
+Shop_Q,5,Timely delivery and good products.,2024-09-09 01:04:20
+Shop_J,2,"Poor quality items, some were stale.",2025-01-12 09:26:39
+Shop_G,4,Very satisfied with the shop.,2024-12-23 22:17:45
+Shop_S,4,Timely delivery and good products.,2024-12-24 05:51:30
+Shop_S,2,Unsatisfactory service.,2024-11-17 16:21:24
+Shop_M,3,Very satisfied with the shop.,2025-01-03 20:36:11
+Shop_F,5,"Excellent quality, fast delivery!",2024-10-30 22:19:42
+Shop_K,3,Items were fresh and well-packed.,2024-11-26 04:08:46
+Shop_E,3,Very satisfied with the shop.,2025-01-28 18:51:01
+Shop_M,4,Great service as always.,2024-10-11 00:13:44
+Shop_D,3,Great service as always.,2024-12-15 07:39:56
+Shop_K,5,"Excellent quality, fast delivery!",2024-12-21 20:35:34
+Shop_I,5,Items were fresh and well-packed.,2025-01-10 18:51:55
+Shop_W,5,Great service as always.,2024-11-28 21:26:29
+Shop_S,4,Items were fresh and well-packed.,2024-09-27 06:12:16
+Shop_N,4,Items were fresh and well-packed.,2024-11-27 22:49:05
+Shop_L,5,Great service as always.,2025-02-07 15:01:36
+Shop_W,5,Items were fresh and well-packed.,2024-12-24 23:59:11
+Shop_K,3,Very satisfied with the shop.,2024-11-22 11:37:14
+Shop_N,3,Great service as always.,2024-10-20 15:40:05
+Shop_C,5,Items were fresh and well-packed.,2025-02-10 17:22:46
+Shop_G,4,Great service as always.,2025-01-11 22:33:05
+Shop_U,5,Timely delivery and good products.,2025-01-11 05:22:56
+Shop_N,4,Very satisfied with the shop.,2025-01-29 11:03:06
+Shop_Y,3,Timely delivery and good products.,2025-01-30 07:48:48
+Shop_F,4,Very satisfied with the shop.,2024-09-04 09:09:16
+Shop_P,2,"Poor quality items, some were stale.",2024-09-24 21:53:17
+Shop_Q,4,Items were fresh and well-packed.,2024-12-03 12:33:43
+Shop_B,5,Very satisfied with the shop.,2024-09-11 07:49:33
+Shop_T,4,"Excellent quality, fast delivery!",2024-12-30 10:32:51
+Shop_E,3,Timely delivery and good products.,2024-11-26 19:42:54
+Shop_S,5,Very satisfied with the shop.,2025-01-03 03:54:52
+Shop_L,4,Timely delivery and good products.,2024-11-23 05:32:15
+Shop_C,5,Great service as always.,2025-01-21 08:46:21
+Shop_K,4,Timely delivery and good products.,2024-12-22 02:31:33
+Shop_K,1,Unsatisfactory service.,2024-09-14 13:52:04
+Shop_G,4,Very satisfied with the shop.,2025-01-03 11:56:22
+Shop_P,5,"Excellent quality, fast delivery!",2024-11-18 12:03:39
+Shop_R,5,Items were fresh and well-packed.,2024-11-08 02:39:28
+Shop_X,4,Timely delivery and good products.,2024-09-20 07:31:21
+Shop_C,4,Very satisfied with the shop.,2025-02-13 00:14:08
+Shop_H,5,Great service as always.,2024-10-05 15:31:15
+Shop_Y,4,Very satisfied with the shop.,2024-09-22 03:14:47
+Shop_G,5,Timely delivery and good products.,2024-10-07 13:31:48
+Shop_L,4,Great service as always.,2024-10-31 19:33:07
+Shop_U,3,Items were fresh and well-packed.,2024-09-16 14:07:38
+Shop_U,4,Items were fresh and well-packed.,2024-11-03 19:46:04
+Shop_N,3,Great service as always.,2024-11-07 08:39:24
+Shop_E,5,Very satisfied with the shop.,2024-11-02 16:50:33
+Shop_F,1,Items not as expected.,2024-11-15 01:14:17
+Shop_D,5,Timely delivery and good products.,2024-09-29 20:31:02
+Shop_R,5,Great service as always.,2025-01-17 02:23:30
+Shop_W,3,Great service as always.,2024-10-30 10:38:15
+Shop_G,5,Items were fresh and well-packed.,2024-09-08 11:55:47
+Shop_W,4,Great service as always.,2024-09-13 11:07:51
+Shop_M,3,Items were fresh and well-packed.,2025-01-20 01:09:08
+Shop_I,2,Some items were damaged.,2025-02-05 11:15:41
+Shop_E,5,Very satisfied with the shop.,2024-12-31 19:09:15
+Shop_N,5,"Excellent quality, fast delivery!",2024-12-28 14:54:58
+Shop_D,4,"Excellent quality, fast delivery!",2024-09-29 09:03:13
+Shop_Z,3,"Excellent quality, fast delivery!",2024-10-25 08:15:27
+Shop_W,5,Items were fresh and well-packed.,2024-11-19 11:05:49
+Shop_M,5,Great service as always.,2024-12-08 02:03:43
+Shop_U,3,"Excellent quality, fast delivery!",2024-12-20 13:12:33
+Shop_A,4,Very satisfied with the shop.,2024-10-25 00:13:33
+Shop_K,3,"Excellent quality, fast delivery!",2024-10-23 23:39:27
+Shop_M,4,"Excellent quality, fast delivery!",2025-02-01 17:42:54
+Shop_X,4,Timely delivery and good products.,2024-10-30 10:52:59
+Shop_V,4,Very satisfied with the shop.,2024-11-28 11:35:15
+Shop_Q,4,"Excellent quality, fast delivery!",2025-02-11 11:44:25
+Shop_Z,5,Timely delivery and good products.,2024-11-11 22:12:50
+Shop_W,3,Timely delivery and good products.,2024-11-29 15:40:33
+Shop_O,3,"Excellent quality, fast delivery!",2024-09-07 21:16:54
+Shop_X,5,Very satisfied with the shop.,2025-02-16 14:12:15
+Shop_M,3,Great service as always.,2024-11-14 19:17:36
+Shop_S,5,"Excellent quality, fast delivery!",2024-12-24 05:11:42
+Shop_I,3,Very satisfied with the shop.,2024-12-28 16:41:12
+Shop_X,4,Very satisfied with the shop.,2024-11-26 03:29:33
+Shop_R,4,Timely delivery and good products.,2024-12-10 00:25:59
+Shop_J,5,Great service as always.,2024-09-02 19:36:30
+Shop_P,3,Great service as always.,2025-01-14 09:18:47
+Shop_Q,2,Items not as expected.,2025-02-24 11:51:50
+Shop_U,4,Great service as always.,2024-11-07 12:52:49
+Shop_U,5,Very satisfied with the shop.,2024-11-26 13:56:38
+Shop_S,4,Items were fresh and well-packed.,2025-02-08 08:05:05
+Shop_M,3,Timely delivery and good products.,2024-12-14 20:08:16
+Shop_N,5,Great service as always.,2024-10-10 08:38:50
+Shop_P,4,"Excellent quality, fast delivery!",2025-02-05 15:59:45
+Shop_Y,4,Great service as always.,2024-09-25 03:39:33
+Shop_F,4,Very satisfied with the shop.,2024-09-18 15:40:08
+Shop_T,4,Timely delivery and good products.,2024-09-08 10:15:59
+Shop_S,1,Some items were damaged.,2024-12-21 09:46:52
+Shop_D,5,Timely delivery and good products.,2024-11-25 05:39:15
+Shop_O,3,"Excellent quality, fast delivery!",2024-09-27 09:05:33
+Shop_T,3,"Excellent quality, fast delivery!",2025-01-13 21:32:35
+Shop_D,4,Timely delivery and good products.,2025-02-18 23:16:56
+Shop_C,4,Great service as always.,2025-02-21 09:02:47
+Shop_W,3,"Excellent quality, fast delivery!",2025-01-03 19:13:35
+Shop_P,5,Great service as always.,2024-09-06 19:04:15
+Shop_L,4,Timely delivery and good products.,2024-12-13 12:35:20
+Shop_U,5,Timely delivery and good products.,2024-11-22 23:27:46
+Shop_M,3,"Excellent quality, fast delivery!",2024-11-03 16:24:08
+Shop_C,4,Very satisfied with the shop.,2024-12-24 08:33:44
+Shop_M,4,Great service as always.,2025-01-09 11:40:49
+Shop_Y,3,Timely delivery and good products.,2024-12-29 12:23:49
+Shop_J,5,Timely delivery and good products.,2024-10-20 04:18:14
+Shop_Z,4,Great service as always.,2024-11-29 00:23:46
+Shop_U,3,Timely delivery and good products.,2025-02-21 23:53:24
+Shop_K,3,Timely delivery and good products.,2024-12-12 07:51:32
+Shop_R,5,Great service as always.,2024-11-09 14:40:04
+Shop_O,3,Timely delivery and good products.,2025-01-10 04:26:28
+Shop_R,2,"Poor quality items, some were stale.",2024-11-19 09:31:20
+Shop_J,3,Very satisfied with the shop.,2024-12-17 17:10:54
+Shop_Q,4,Great service as always.,2024-12-26 06:57:36
+Shop_J,5,Very satisfied with the shop.,2025-02-12 01:39:02
+Shop_F,5,"Excellent quality, fast delivery!",2024-12-03 18:06:34
+Shop_L,4,Great service as always.,2024-09-01 11:13:13
+Shop_S,3,Items were fresh and well-packed.,2024-10-12 23:08:04
+Shop_E,1,Delivery was very late.,2024-11-28 06:37:41
+Shop_I,4,Very satisfied with the shop.,2024-09-14 06:50:57
+Shop_S,5,Timely delivery and good products.,2025-02-14 17:23:26
+Shop_H,3,"Excellent quality, fast delivery!",2025-02-12 15:34:01
+Shop_E,1,Items not as expected.,2024-10-17 16:30:50
+Shop_Z,3,Items were fresh and well-packed.,2024-12-29 05:52:05
+Shop_R,4,Great service as always.,2025-01-08 14:13:35
+Shop_H,5,Items were fresh and well-packed.,2024-09-30 17:04:24
+Shop_W,4,Great service as always.,2024-10-20 12:57:56
+Shop_K,5,Items were fresh and well-packed.,2025-02-22 09:22:47
+Shop_Q,5,Very satisfied with the shop.,2024-09-15 23:47:04
+Shop_J,3,"Excellent quality, fast delivery!",2025-01-07 17:56:11
+Shop_E,5,Great service as always.,2025-01-19 15:33:27
+Shop_C,5,"Excellent quality, fast delivery!",2024-11-06 13:29:11
+Shop_Z,5,"Excellent quality, fast delivery!",2025-01-25 04:26:47
+Shop_V,4,"Excellent quality, fast delivery!",2024-12-25 14:44:29
+Shop_V,3,Great service as always.,2025-01-03 04:39:34
+Shop_D,5,"Excellent quality, fast delivery!",2024-11-27 02:55:08
+Shop_C,4,Items were fresh and well-packed.,2024-10-25 06:06:37
+Shop_X,4,Timely delivery and good products.,2024-12-18 02:53:22
+Shop_O,5,"Excellent quality, fast delivery!",2025-01-11 06:38:47
+Shop_T,4,Great service as always.,2025-01-04 14:46:20
+Shop_N,5,"Excellent quality, fast delivery!",2025-01-01 11:05:29
+Shop_I,4,Items were fresh and well-packed.,2025-01-01 17:10:57
+Shop_U,4,Great service as always.,2025-02-01 10:56:01
+Shop_I,4,Great service as always.,2024-09-13 13:21:02
+Shop_J,3,Very satisfied with the shop.,2025-02-22 22:02:45
+Shop_S,5,Timely delivery and good products.,2024-12-23 18:40:19
+Shop_E,5,Items were fresh and well-packed.,2024-11-19 21:25:29
+Shop_O,5,"Excellent quality, fast delivery!",2024-12-08 22:22:33
+Shop_N,4,Great service as always.,2024-09-04 05:41:20
+Shop_C,5,Great service as always.,2024-10-11 10:44:34
+Shop_K,4,Great service as always.,2025-02-02 16:29:56
+Shop_T,4,Very satisfied with the shop.,2024-10-13 16:07:04
+Shop_H,3,Very satisfied with the shop.,2025-02-27 01:56:54
+Shop_P,4,Very satisfied with the shop.,2024-11-10 05:55:03
+Shop_H,4,Items were fresh and well-packed.,2025-02-19 23:56:30
+Shop_N,3,Very satisfied with the shop.,2024-10-22 00:19:25
+Shop_L,5,Items were fresh and well-packed.,2025-02-21 23:16:43
+Shop_D,4,Great service as always.,2024-11-03 22:48:13
+Shop_O,5,Very satisfied with the shop.,2024-12-03 10:48:48
+Shop_I,4,Very satisfied with the shop.,2025-01-12 10:59:09
+Shop_S,5,Very satisfied with the shop.,2024-12-07 05:26:57
+Shop_E,3,Very satisfied with the shop.,2024-11-26 08:48:32
+Shop_K,5,Items were fresh and well-packed.,2024-11-06 17:51:10
+Shop_Z,3,Items were fresh and well-packed.,2024-09-11 00:48:40
+Shop_E,5,"Excellent quality, fast delivery!",2024-11-07 04:40:36
+Shop_S,5,Very satisfied with the shop.,2024-12-11 03:16:56
+Shop_T,4,Great service as always.,2025-02-26 01:21:11
+Shop_G,5,Great service as always.,2024-11-14 03:22:08
+Shop_Q,4,"Excellent quality, fast delivery!",2024-11-05 10:54:43
+Shop_F,3,Items were fresh and well-packed.,2025-02-15 11:51:02
+Shop_G,3,Timely delivery and good products.,2025-01-24 21:17:16
+Shop_M,5,Timely delivery and good products.,2024-11-25 03:33:10
+Shop_N,5,"Excellent quality, fast delivery!",2024-10-17 22:53:32
+Shop_M,5,Items were fresh and well-packed.,2024-09-03 21:17:06
+Shop_H,4,Great service as always.,2024-10-25 03:12:32
+Shop_W,3,"Excellent quality, fast delivery!",2024-10-17 14:23:24
+Shop_B,3,Timely delivery and good products.,2024-09-16 15:00:40
+Shop_K,2,Items not as expected.,2024-09-05 18:09:31
+Shop_Z,5,Very satisfied with the shop.,2024-12-11 03:57:45
+Shop_X,4,Items were fresh and well-packed.,2025-02-04 03:45:07
+Shop_W,4,Very satisfied with the shop.,2024-11-29 03:30:23
+Shop_S,5,Items were fresh and well-packed.,2024-10-11 05:38:45
+Shop_O,3,Very satisfied with the shop.,2024-12-18 04:49:02
+Shop_Z,5,Items were fresh and well-packed.,2024-11-18 10:51:14
+Shop_V,2,Items not as expected.,2025-02-14 23:33:07
+Shop_G,4,Items were fresh and well-packed.,2024-09-02 02:57:09
+Shop_T,4,Timely delivery and good products.,2024-09-22 02:18:43
+Shop_M,5,"Excellent quality, fast delivery!",2025-01-21 16:47:26
+Shop_G,2,Items not as expected.,2024-11-14 04:32:20
+Shop_C,1,Delivery was very late.,2024-09-19 23:18:02
+Shop_W,4,Very satisfied with the shop.,2025-02-14 03:47:08
+Shop_K,2,"Poor quality items, some were stale.",2024-11-07 15:03:01
+Shop_I,2,Some items were damaged.,2025-02-17 06:01:51
+Shop_E,4,Very satisfied with the shop.,2024-11-01 18:51:28
+Shop_C,5,Great service as always.,2024-09-06 12:02:10
+Shop_L,4,Great service as always.,2025-01-29 09:16:15
+Shop_A,4,Great service as always.,2025-01-12 13:23:50
+Shop_Y,2,Items not as expected.,2024-11-23 00:44:47
+Shop_G,3,Great service as always.,2024-10-04 07:36:44
+Shop_I,4,Great service as always.,2024-12-22 12:29:43
+Shop_V,3,Timely delivery and good products.,2024-12-25 12:04:42
+Shop_N,3,"Excellent quality, fast delivery!",2024-09-08 05:38:18
+Shop_J,4,Timely delivery and good products.,2024-10-16 18:46:08
+Shop_A,4,Great service as always.,2024-10-19 21:55:55
+Shop_K,4,Items were fresh and well-packed.,2025-01-08 15:47:04
+Shop_M,5,Items were fresh and well-packed.,2025-01-22 05:37:10
+Shop_N,5,Very satisfied with the shop.,2024-09-03 15:50:32
+Shop_N,5,Great service as always.,2024-09-24 21:18:17
+Shop_U,3,Very satisfied with the shop.,2024-12-30 09:55:08
+Shop_L,2,"Poor quality items, some were stale.",2024-10-11 00:55:46
+Shop_O,4,Timely delivery and good products.,2024-09-13 21:55:27
+Shop_S,5,Timely delivery and good products.,2025-01-05 00:51:19
+Shop_E,2,"Poor quality items, some were stale.",2024-11-13 23:57:31
+Shop_Q,4,"Excellent quality, fast delivery!",2025-02-01 02:21:58
+Shop_G,5,Items were fresh and well-packed.,2024-11-23 19:45:27
+Shop_F,3,Timely delivery and good products.,2024-12-11 07:53:39
+Shop_K,4,Items were fresh and well-packed.,2025-02-26 11:39:09
+Shop_M,4,Great service as always.,2025-02-18 18:31:09
+Shop_C,3,Items were fresh and well-packed.,2025-01-27 11:18:26
+Shop_R,4,Items were fresh and well-packed.,2024-09-11 00:52:33
+Shop_R,4,Items were fresh and well-packed.,2025-02-16 16:55:09
+Shop_O,5,Very satisfied with the shop.,2024-12-22 04:26:54
+Shop_W,5,"Excellent quality, fast delivery!",2024-12-07 05:47:01
+Shop_I,5,"Excellent quality, fast delivery!",2024-09-21 04:36:42
+Shop_O,4,"Excellent quality, fast delivery!",2025-02-09 17:46:19
+Shop_H,4,Great service as always.,2024-09-18 03:34:36
+Shop_C,4,Very satisfied with the shop.,2024-10-26 12:26:33
+Shop_M,5,Very satisfied with the shop.,2025-01-15 15:40:54
+Shop_K,5,"Excellent quality, fast delivery!",2024-10-04 07:30:35
+Shop_T,2,"Poor quality items, some were stale.",2025-01-20 10:02:58
+Shop_Y,1,Unsatisfactory service.,2024-10-29 09:06:23
+Shop_W,5,Great service as always.,2025-01-20 17:11:41
+Shop_P,5,Very satisfied with the shop.,2024-11-03 18:19:46
+Shop_W,4,Very satisfied with the shop.,2025-02-15 14:29:52
+Shop_R,3,Items were fresh and well-packed.,2025-01-15 11:48:26
+Shop_B,4,"Excellent quality, fast delivery!",2024-11-13 17:31:34
+Shop_K,5,"Excellent quality, fast delivery!",2024-10-22 05:23:23
+Shop_Z,3,"Excellent quality, fast delivery!",2025-01-18 17:14:14
+Shop_F,5,Very satisfied with the shop.,2024-11-23 13:14:33
+Shop_Y,4,Items were fresh and well-packed.,2024-09-11 21:05:20
+Shop_N,3,Timely delivery and good products.,2024-12-28 00:03:26
+Shop_A,1,"Poor quality items, some were stale.",2024-10-04 02:20:34
+Shop_R,3,Very satisfied with the shop.,2024-10-30 14:21:34
+Shop_B,4,"Excellent quality, fast delivery!",2024-09-30 21:19:17
+Shop_D,3,Very satisfied with the shop.,2024-11-06 10:15:45
+Shop_D,3,Timely delivery and good products.,2025-02-08 16:34:46
+Shop_O,3,"Excellent quality, fast delivery!",2024-12-23 21:23:35
+Shop_E,4,Timely delivery and good products.,2024-12-26 22:08:14
+Shop_G,3,"Excellent quality, fast delivery!",2024-10-07 00:19:58
+Shop_K,3,Very satisfied with the shop.,2024-10-20 11:36:24
+Shop_B,4,Great service as always.,2024-09-30 13:47:01
+Shop_M,4,Great service as always.,2024-11-23 16:37:08
+Shop_K,4,Items were fresh and well-packed.,2025-01-21 13:24:06
+Shop_X,4,"Excellent quality, fast delivery!",2025-02-23 00:28:36
+Shop_U,4,Very satisfied with the shop.,2025-01-08 14:10:35
+Shop_B,4,"Excellent quality, fast delivery!",2025-02-15 10:01:56
+Shop_D,5,Very satisfied with the shop.,2024-10-19 08:40:39
+Shop_K,3,"Excellent quality, fast delivery!",2024-12-26 10:38:55
+Shop_L,4,Timely delivery and good products.,2025-02-12 23:18:26
+Shop_S,3,"Excellent quality, fast delivery!",2025-01-26 12:36:37
+Shop_O,4,Great service as always.,2024-11-12 15:18:01
+Shop_C,1,Some items were damaged.,2024-11-21 20:01:04
+Shop_V,5,Great service as always.,2024-12-02 12:31:49
+Shop_S,5,Very satisfied with the shop.,2024-11-18 00:45:19
+Shop_C,3,"Excellent quality, fast delivery!",2024-10-25 15:39:57
+Shop_Y,5,"Excellent quality, fast delivery!",2024-09-01 07:32:40
+Shop_D,3,Great service as always.,2025-02-02 01:55:46
+Shop_W,4,Great service as always.,2025-01-27 16:24:33
+Shop_I,4,Timely delivery and good products.,2024-12-17 00:55:22
+Shop_F,3,"Excellent quality, fast delivery!",2024-10-28 14:55:45
+Shop_F,3,"Excellent quality, fast delivery!",2025-01-09 19:47:19
+Shop_S,3,Very satisfied with the shop.,2025-01-01 06:45:52
+Shop_Q,3,Timely delivery and good products.,2024-12-08 00:13:33
+Shop_H,5,"Excellent quality, fast delivery!",2024-10-06 23:53:02
+Shop_U,5,Items were fresh and well-packed.,2024-11-27 22:55:24
+Shop_P,5,Great service as always.,2024-12-27 10:41:04
+Shop_P,3,Timely delivery and good products.,2024-10-14 17:31:37
+Shop_U,3,Very satisfied with the shop.,2025-02-10 05:25:16
+Shop_W,4,Great service as always.,2025-01-17 19:41:01
+Shop_T,5,Items were fresh and well-packed.,2025-01-08 18:51:43
+Shop_M,3,Great service as always.,2024-09-07 02:35:47
+Shop_C,5,Great service as always.,2024-11-21 09:33:03
+Shop_I,5,Great service as always.,2024-09-28 21:39:42
+Shop_I,4,Timely delivery and good products.,2024-10-18 11:41:34
+Shop_Y,4,Timely delivery and good products.,2025-02-22 04:47:12
+Shop_F,4,"Excellent quality, fast delivery!",2024-12-29 07:44:07
+Shop_V,4,Items were fresh and well-packed.,2024-12-07 23:42:38
+Shop_L,5,Great service as always.,2024-10-26 23:49:10
+Shop_X,5,Very satisfied with the shop.,2024-12-23 23:12:47
+Shop_O,1,Unsatisfactory service.,2024-09-13 18:52:11
+Shop_X,5,Timely delivery and good products.,2024-11-07 16:33:34
+Shop_P,4,Very satisfied with the shop.,2025-01-10 09:03:29
+Shop_V,5,"Excellent quality, fast delivery!",2024-10-06 14:13:26
+Shop_H,5,Very satisfied with the shop.,2024-10-09 01:19:56
+Shop_K,4,Timely delivery and good products.,2025-01-11 11:18:16
+Shop_O,5,Timely delivery and good products.,2024-10-30 23:34:02
+Shop_A,4,Great service as always.,2024-11-28 10:58:00
+Shop_Q,4,Items were fresh and well-packed.,2025-01-23 13:16:44
+Shop_G,5,Great service as always.,2024-09-25 00:36:01
+Shop_F,5,Items were fresh and well-packed.,2025-02-12 06:43:10
+Shop_T,3,Great service as always.,2024-12-21 08:38:14
+Shop_B,4,Very satisfied with the shop.,2024-11-26 00:42:49
+Shop_A,3,"Excellent quality, fast delivery!",2024-09-26 02:22:05
+Shop_X,3,Items were fresh and well-packed.,2024-12-05 19:22:03
+Shop_R,5,Very satisfied with the shop.,2024-09-11 00:35:59
+Shop_D,4,Great service as always.,2024-09-13 16:34:46
+Shop_Q,5,"Excellent quality, fast delivery!",2025-02-22 16:42:44
+Shop_J,4,Items were fresh and well-packed.,2024-09-13 01:52:52
+Shop_D,4,Great service as always.,2024-09-24 18:05:02
+Shop_U,4,Items were fresh and well-packed.,2025-01-06 14:54:11
+Shop_V,3,"Excellent quality, fast delivery!",2024-11-05 00:48:01
+Shop_N,5,Very satisfied with the shop.,2024-11-11 10:50:56
+Shop_B,2,Unsatisfactory service.,2024-10-31 03:57:03
+Shop_V,5,Great service as always.,2025-01-29 03:05:22
+Shop_O,5,Timely delivery and good products.,2025-02-11 21:57:40
+Shop_L,3,Timely delivery and good products.,2025-01-05 09:41:29
+Shop_Z,3,Timely delivery and good products.,2024-10-28 07:26:46
+Shop_Z,5,"Excellent quality, fast delivery!",2024-11-15 09:40:32
+Shop_N,4,Great service as always.,2025-01-27 20:46:18
+Shop_Z,4,Items were fresh and well-packed.,2024-10-13 14:55:00
+Shop_R,3,Great service as always.,2025-02-17 19:18:57
+Shop_S,4,Great service as always.,2024-10-14 13:45:51
+Shop_B,4,"Excellent quality, fast delivery!",2024-12-02 23:21:22
+Shop_E,5,"Excellent quality, fast delivery!",2025-01-21 01:34:29
+Shop_W,5,Timely delivery and good products.,2024-09-02 08:37:21
+Shop_V,3,Great service as always.,2025-02-05 18:07:38
+Shop_N,5,Great service as always.,2024-12-22 03:14:56
+Shop_C,3,"Excellent quality, fast delivery!",2025-02-07 09:21:08
+Shop_D,3,Items were fresh and well-packed.,2024-12-11 14:36:10
+Shop_V,5,"Excellent quality, fast delivery!",2024-12-02 02:44:01
+Shop_H,4,Very satisfied with the shop.,2025-02-16 17:05:59
+Shop_U,4,Great service as always.,2024-10-09 17:38:26
+Shop_Z,5,Great service as always.,2025-01-30 01:40:22
+Shop_O,3,Very satisfied with the shop.,2024-11-21 12:16:05
+Shop_Q,3,Timely delivery and good products.,2024-10-05 05:21:03
+Shop_H,5,Timely delivery and good products.,2025-02-21 10:44:00
+Shop_I,1,"Poor quality items, some were stale.",2024-09-26 15:13:44
+Shop_T,2,Some items were damaged.,2024-12-25 04:08:41
+Shop_J,3,Very satisfied with the shop.,2024-12-11 06:19:17
+Shop_X,2,Some items were damaged.,2025-01-02 01:58:19
+Shop_B,3,Great service as always.,2024-12-25 04:36:37
+Shop_S,5,Very satisfied with the shop.,2024-11-25 20:29:58
+Shop_H,3,Timely delivery and good products.,2024-12-24 22:22:12
+Shop_V,1,Some items were damaged.,2025-01-31 11:04:10
+Shop_H,3,"Excellent quality, fast delivery!",2024-12-30 02:11:57
+Shop_P,3,Great service as always.,2024-11-22 10:29:34
+Shop_L,1,Items not as expected.,2024-10-24 03:14:49
+Shop_U,4,Items were fresh and well-packed.,2024-10-17 17:38:59
+Shop_V,4,Items were fresh and well-packed.,2025-01-21 07:26:22
+Shop_V,4,Very satisfied with the shop.,2025-02-12 20:16:35
+Shop_B,5,Great service as always.,2024-12-13 21:20:57
+Shop_U,4,Items were fresh and well-packed.,2025-02-24 09:31:26
+Shop_N,3,Great service as always.,2024-09-22 21:55:17
+Shop_E,5,Timely delivery and good products.,2025-01-06 22:51:35
+Shop_C,5,Timely delivery and good products.,2025-01-15 13:49:09
+Shop_Y,4,Great service as always.,2025-02-21 19:46:30
+Shop_Y,4,Very satisfied with the shop.,2025-02-12 19:57:17
+Shop_J,3,Items were fresh and well-packed.,2025-02-10 21:49:48
+Shop_X,4,Great service as always.,2025-02-19 15:43:58
+Shop_Q,5,Items were fresh and well-packed.,2025-01-08 18:23:07
+Shop_H,5,Great service as always.,2025-02-22 12:55:14
+Shop_L,3,Very satisfied with the shop.,2024-12-20 06:19:10
+Shop_Q,3,Very satisfied with the shop.,2024-12-08 10:58:54
+Shop_D,2,"Poor quality items, some were stale.",2024-12-07 00:08:01
+Shop_S,4,Timely delivery and good products.,2025-01-25 16:09:18
+Shop_X,3,"Excellent quality, fast delivery!",2024-11-04 22:59:19
+Shop_J,3,Great service as always.,2024-12-20 23:34:52
+Shop_Y,5,Very satisfied with the shop.,2024-09-29 17:10:45
+Shop_P,3,Great service as always.,2024-09-06 06:08:44
+Shop_T,5,"Excellent quality, fast delivery!",2024-09-23 08:03:45
+Shop_W,3,Items were fresh and well-packed.,2024-09-21 05:56:10
+Shop_Q,4,Items were fresh and well-packed.,2025-01-14 15:05:00
+Shop_H,3,Very satisfied with the shop.,2024-12-15 22:23:16
+Shop_R,5,Items were fresh and well-packed.,2024-12-16 16:17:21
+Shop_F,3,Timely delivery and good products.,2024-10-15 10:42:46
+Shop_E,5,Great service as always.,2025-01-19 08:45:13
+Shop_G,3,Great service as always.,2024-11-27 23:40:27
+Shop_B,2,Some items were damaged.,2024-09-15 03:53:36

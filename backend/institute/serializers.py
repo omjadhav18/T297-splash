@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from .models import Item,InstituteRequest
+from .models import *
 from django.utils import timezone
 
 class ItemSerializer(serializers.ModelSerializer):
@@ -39,3 +39,17 @@ class InstituteRequestSerializer(serializers.ModelSerializer):
         instance.status = new_status
         instance.save()
         return instance
+
+
+class InstituteDocumentSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = InstituteDocument
+        fields = ["id", "user", "document", "status", "uploaded_at", "reviewed_at", "rejection_reason"]
+        read_only_fields = ["uploaded_at", "reviewed_at", "rejection_reason"]
+
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        request = self.context.get("request")
+        user=User.objects.get(id=1)  #tempoorary use only make sure to delete when connecting frontend.
+        if request and user.role == "institute":  # instead of user.role you need to add request.user.role 
+            self.fields["status"].read_only = True

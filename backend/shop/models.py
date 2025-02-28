@@ -78,3 +78,19 @@ class ShopRating(models.Model):
     rating = models.PositiveIntegerField(choices=[(i, i) for i in range(1, 6)]) 
     review = models.TextField(blank=True, null=True) 
     created_at = models.DateTimeField(auto_now_add=True)
+
+
+class ShopAllocation(models.Model):
+    request = models.OneToOneField(InstituteRequest, on_delete=models.CASCADE, related_name="allocation")
+    store = models.ForeignKey(Store, on_delete=models.CASCADE, related_name="allocations")
+    allocated_quantity = models.PositiveIntegerField()
+    status = models.CharField(
+        max_length=20,
+        choices=[("Pending", "Pending"), ("Packed", "Packed"), ("Delivered", "Delivered")],
+        default="Pending"
+    )
+    allocated_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)
+
+    def __str__(self):
+        return f"{self.request.item.name} - {self.store.name} ({self.allocated_quantity})"

@@ -4,6 +4,11 @@ from .models import *
 from user.models import User
 from admapp.models import AdminRequestQueue
 from .serializers import *
+from rest_framework.response import Response
+from django.shortcuts import get_object_or_404
+from rest_framework.views import APIView
+
+
 
 class ItemListCreateView(generics.ListCreateAPIView):
     serializer_class = ItemSerializer
@@ -58,7 +63,7 @@ class InstituteRequestAdminUpdateView(generics.UpdateAPIView): #for this you nee
 
             AdminRequestQueue.objects.create(
                 institute_request=instance,
-                status="Pending",  # Default status when added to queue
+                status="Pending",  
                 added_at=timezone.now()
             )
 
@@ -69,3 +74,45 @@ class InstituteRequestAdminUpdateView(generics.UpdateAPIView): #for this you nee
         instance.status = new_status
         instance.save()
         serializer.save()
+
+
+
+
+class InstituteDocumentUploadView(generics.CreateAPIView):
+    queryset = InstituteDocument.objects.all()
+    serializer_class = InstituteDocumentSerializer
+    permission_classes = [AllowAny] # Add IsAuthenticated
+
+    def perform_create(self, serializer):
+        #user = self.request.user
+        user=User.objects.get(id=1)  # Make sure remove this line.
+        if user.role != "institute":
+            return Response({"error": "Only institutes can upload documents."}, status=403)
+
+        if InstituteDocument.objects.filter(user=user).exists():
+            return Response({"error": "You have already uploaded a document."}, status=400)
+
+        serializer.save(user=user)
+
+
+class InstituteDocumentReviewView(APIView):
+    permission_classes = [IsAuthenticated]
+
+    def get(self, request, document_id):
+        """Retrieve a document's details (Admin only)."""
+        document = get_object_or_404(InstituteDocument, id=document_id)
+        serializer = InstituteDocumentSerializer(document)
+        return Response(serializer.data)
+
+    def patch(self, request, document_id):
+        """Update document status (Admin only)."""
+        document = get_object_or_404(InstituteDocument, id=document_id)
+
+        if request.user.role != "admin":
+            return Response({"error": "Only admins can review documents."}, status=403)
+
+        serializer = InstituteDocumentSerializer(document, data=request.data, partial=True)
+        if serializer.is_valid():
+            serializer.save(reviewed_at=timezone.now())
+            return Response(serializer.data)
+        return Response(serializer.errors, status=400)

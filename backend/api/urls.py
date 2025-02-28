@@ -22,6 +22,7 @@ urlpatterns = [
     path('items/',institute_views.ItemListCreateView.as_view(), name='listcreate'),
     path('retrieve-items/<int:pk>/', institute_views.ItemRetrieveUpdateDestroyView.as_view(), name='item-detail'),
     path('institute-requests/', institute_views.InstituteRequestListCreateView.as_view(), name='institute-requests'),
+    path("institutes/upload-document/", institute_views.InstituteDocumentUploadView.as_view(), name="upload-document"),
 
     #Admin
     path('admin/institute-requests/', institute_views.InstituteRequestAdminListView.as_view(), name='admin-list-requests'),
