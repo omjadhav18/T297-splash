@@ -12,6 +12,13 @@ https://docs.djangoproject.com/en/5.1/ref/settings/
 
 from pathlib import Path
 from datetime import timedelta
+from environs import Env
+
+env = Env()
+env.read_env()
+
+STRIPE_SECRET_KEY=env("STRIPE_SECRET_KEY")
+
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -26,12 +33,17 @@ SECRET_KEY = 'django-insecure-$*2uc46y8)q$5bnl8l_0)07p_bs+x9iaqrq2qsa0k#d97e_3)k
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+
+#stripe
+FRONTEND_URL = "http://localhost:5173"
+
 ALLOWED_HOSTS = []
 
 
 # Application definition
 
 INSTALLED_APPS = [
+    'jazzmin',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -46,6 +58,7 @@ INSTALLED_APPS = [
     'institute',
     'shop',
     'admapp',
+    'ml',
 
     #Added
     'rest_framework',
@@ -163,3 +176,45 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+
+JAZZMIN_SETTINGS ={
+    'site_title':"Techhorizon",
+    'site_header':"Techhorizon",
+    'site_brand':"Techhorizon",
+    'welcome_sign':"Welcome To React",
+    'copyright':"omjadhav ",
+    'show_sidebar':True,
+}
+
+JAZZMIN_UI_TWEAKS = {
+    "navbar_small_text": False,
+    "footer_small_text": False,
+    "body_small_text": False,
+    "brand_small_text": False,
+    "brand_colour": "navbar-white",
+    "accent": "accent-lightblue",
+    "navbar": "navbar-light",
+    "no_navbar_border": False,
+    "navbar_fixed": True,
+    "layout_boxed": False,
+    "footer_fixed": False,
+    "sidebar_fixed": True,
+    "sidebar": "sidebar-light-lime",
+    "sidebar_nav_small_text": False,
+    "sidebar_disable_expand": False,
+    "sidebar_nav_child_indent": False,
+    "sidebar_nav_compact_style": False,
+    "sidebar_nav_legacy_style": False,
+    "sidebar_nav_flat_style": False,
+    "theme": "cyborg",
+    "dark_mode_theme": None,
+    "button_classes": {
+        "primary": "btn-primary",
+        "secondary": "btn-secondary",
+        "info": "btn-info",
+        "warning": "btn-warning",
+        "danger": "btn-danger",
+        "success": "btn-success"
+    }
+}

@@ -6,6 +6,8 @@ from rest_framework_simplejwt.views import (
 ) 
 from user import views as user_views
 from institute import views as institute_views
+from shop import views as shop_views
+from Donor import views as donor_views
 
 urlpatterns = [
     path('token/', user_views.MyTokenObtainPairView.as_view(), name='token_obtain_pair'),
@@ -28,8 +30,21 @@ urlpatterns = [
 
     #Donour
     path('donor_profile/',user_views.DonorProfileCreateView.as_view(),name='donor_profiel'),
+    path('donations/', donor_views.DonationListCreateView.as_view(), name='donation-list-create'),
+    path('donations/<int:pk>/', donor_views.DonationDetailView.as_view(), name='donation-detail'),   
+    path("donate/", donor_views.DonationCreateView.as_view(), name="donation-create"),
+    path("donation/payment-success/", donor_views.DonationPaymentSuccessView.as_view(), name="donation-payment-success"),
+
 
     #Shop
     path('shop_profile/',user_views.ShopProfileCreateView.as_view(),name='shop_profile'),
+    path('store/create/', shop_views.StoreCreateView.as_view(), name='store-create'),
+    path('store/<int:pk>/', shop_views.StoreDetailView.as_view(), name='store-detail'),
+    path('stocks/add/', shop_views.StockCreateView.as_view(), name='add-stock'),
+    path('stocks/', shop_views.StockListView.as_view(), name='list-stocks'), 
+    path("create-order/", shop_views.ShopOrderCreateView.as_view(), name="create-order"),
+    path("payment-success/", shop_views.PaymentSuccessView.as_view(), name="payment-success"),
+
+
 
 ]
